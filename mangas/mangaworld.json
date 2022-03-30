@@ -1,0 +1,2117 @@
+{
+  "msg": "",
+  "content": [
+    {
+      "id": 62439,
+      "en_name": "Dragon Sky Aces",
+      "rus_name": "Драконьи небесные асы",
+      "dir": "dragon-sky-aces",
+      "is_licensed": false,
+      "issue_year": 2022,
+      "avg_rating": "0.0",
+      "admin_rating": "0.0",
+      "type": "Манга",
+      "total_views": 0,
+      "total_votes": 0,
+      "cover_high": "titles/dragon-sky-aces/d1271066db1fef4b26146263b1ea9a3d.jpg",
+      "cover_mid": "titles/dragon-sky-aces/514311b26b32d2cf359de869f3312f0b.jpg",
+      "cover_low": "titles/dragon-sky-aces/6769c928fbc7b637f0574db9600f883d.jpg",
+      "bookmark_type": null,
+      "genres": [
+        {
+          "id": 2,
+          "name": "Боевик"
+        },
+        {
+          "id": 3,
+          "name": "Боевые искусства"
+        }
+      ],
+      "img": {
+        "high": "/media/titles/dragon-sky-aces/d1271066db1fef4b26146263b1ea9a3d.jpg",
+        "mid": "/media/titles/dragon-sky-aces/514311b26b32d2cf359de869f3312f0b.jpg",
+        "low": "/media/titles/dragon-sky-aces/6769c928fbc7b637f0574db9600f883d.jpg"
+      },
+      "categories": [
+        {
+          "id": 22,
+          "name": "Магия"
+        }
+      ]
+    },
+    {
+      "id": 62438,
+      "en_name": "Strange dragon and former hero party chore clerk, leisurely slow life in the new continent",
+      "rus_name": "Неторопливая медленная жизнь на новом континенте",
+      "dir": "strange-dragon-and-former-hero-party-chore-clerk-leisurely-slow-life-in-the-new-continent",
+      "is_licensed": false,
+      "issue_year": 2022,
+      "avg_rating": "0.0",
+      "admin_rating": "0.0",
+      "type": "Манга",
+      "total_views": 0,
+      "total_votes": 0,
+      "cover_high": "titles/strange-dragon-and-former-hero-party-chore-clerk-leisurely-slow-life-in-the-new-continent/6f8be9aedfea18fab0271a4b6b4f0053.jpg",
+      "cover_mid": "titles/strange-dragon-and-former-hero-party-chore-clerk-leisurely-slow-life-in-the-new-continent/73595a09b114d802c65d8b2a6ba701e3.jpg",
+      "cover_low": "titles/strange-dragon-and-former-hero-party-chore-clerk-leisurely-slow-life-in-the-new-continent/7f3aa464d36b2c42d8742041e7f08a94.jpg",
+      "bookmark_type": null,
+      "genres": [
+        {
+          "id": 2,
+          "name": "Боевик"
+        }
+      ],
+      "img": {
+        "high": "/media/titles/strange-dragon-and-former-hero-party-chore-clerk-leisurely-slow-life-in-the-new-continent/6f8be9aedfea18fab0271a4b6b4f0053.jpg",
+        "mid": "/media/titles/strange-dragon-and-former-hero-party-chore-clerk-leisurely-slow-life-in-the-new-continent/73595a09b114d802c65d8b2a6ba701e3.jpg",
+        "low": "/media/titles/strange-dragon-and-former-hero-party-chore-clerk-leisurely-slow-life-in-the-new-continent/7f3aa464d36b2c42d8742041e7f08a94.jpg"
+      },
+      "categories": [
+        {
+          "id": 5,
+          "name": "Веб"
+        }
+      ]
+    },
+    {
+      "id": 62423,
+      "en_name": "Isekai Kaeri no Moto Yuusha desuga, Death Game ni Makikomaremashita",
+      "rus_name": "Бывший герой вернулся из другого мира, но был вовлечён в смертельную игру",
+      "dir": "isekai-kaeri-no-moto-yuusha-desuga-death-game-ni-makikomaremashita",
+      "is_licensed": false,
+      "issue_year": 2021,
+      "avg_rating": "0.0",
+      "admin_rating": "0.0",
+      "type": "Манга",
+      "total_views": 0,
+      "total_votes": 0,
+      "cover_high": "titles/isekai-kaeri-no-moto-yuusha-desuga-death-game-ni-makikomaremashita/13b36bdfe740be35b996c049ce558fd6.jpg",
+      "cover_mid": "titles/isekai-kaeri-no-moto-yuusha-desuga-death-game-ni-makikomaremashita/addc6b9b5d537e5a273935485a3c03f8.jpg",
+      "cover_low": "titles/isekai-kaeri-no-moto-yuusha-desuga-death-game-ni-makikomaremashita/bb540c1708b2e45e8b7e428a039e9f9a.jpg",
+      "bookmark_type": null,
+      "genres": [
+        {
+          "id": 2,
+          "name": "Боевик"
+        },
+        {
+          "id": 11,
+          "name": "Драма"
+        }
+      ],
+      "img": {
+        "high": "/media/titles/isekai-kaeri-no-moto-yuusha-desuga-death-game-ni-makikomaremashita/13b36bdfe740be35b996c049ce558fd6.jpg",
+        "mid": "/media/titles/isekai-kaeri-no-moto-yuusha-desuga-death-game-ni-makikomaremashita/addc6b9b5d537e5a273935485a3c03f8.jpg",
+        "low": "/media/titles/isekai-kaeri-no-moto-yuusha-desuga-death-game-ni-makikomaremashita/bb540c1708b2e45e8b7e428a039e9f9a.jpg"
+      },
+      "categories": [
+        {
+          "id": 13,
+          "name": "Реинкарнация"
+        }
+      ]
+    },
+    {
+      "id": 62417,
+      "en_name": "The cycle of the fairy",
+      "rus_name": "Цикл феи",
+      "dir": "the-cycle-of-the-fairy",
+      "is_licensed": false,
+      "issue_year": 2022,
+      "avg_rating": "0.0",
+      "admin_rating": "0.0",
+      "type": "Маньхуа",
+      "total_views": 0,
+      "total_votes": 0,
+      "cover_high": "titles/the-cycle-of-the-fairy/46bf6ef0c34a213968acff7fff6177e8.jpg",
+      "cover_mid": "titles/the-cycle-of-the-fairy/228cacc28f6cde9cfe56a767d3edd4b0.jpg",
+      "cover_low": "titles/the-cycle-of-the-fairy/c9201c5f71ba40c9b8e94e9e6b8f8ebb.jpg",
+      "bookmark_type": null,
+      "genres": [
+        {
+          "id": 2,
+          "name": "Боевик"
+        }
+      ],
+      "img": {
+        "high": "/media/titles/the-cycle-of-the-fairy/46bf6ef0c34a213968acff7fff6177e8.jpg",
+        "mid": "/media/titles/the-cycle-of-the-fairy/228cacc28f6cde9cfe56a767d3edd4b0.jpg",
+        "low": "/media/titles/the-cycle-of-the-fairy/c9201c5f71ba40c9b8e94e9e6b8f8ebb.jpg"
+      },
+      "categories": [
+        {
+          "id": 5,
+          "name": "Веб"
+        },
+        {
+          "id": 6,
+          "name": "В цвете"
+        }
+      ]
+    },
+    {
+      "id": 62411,
+      "en_name": "fascinated",
+      "rus_name": "Очарованный",
+      "dir": "fascinated",
+      "is_licensed": false,
+      "issue_year": 2022,
+      "avg_rating": "0.0",
+      "admin_rating": "0.0",
+      "type": "Маньхуа",
+      "total_views": 0,
+      "total_votes": 0,
+      "cover_high": "titles/fascinated/a41a97d8ed1e1fa952ad47e6c5e2ae98.jpg",
+      "cover_mid": "titles/fascinated/21f6b46f7bf3a2393c587ce5d6e68509.jpg",
+      "cover_low": "titles/fascinated/ccd0a067bea0c3c71cd49e8a9b722dee.jpg",
+      "bookmark_type": null,
+      "genres": [
+        {
+          "id": 2,
+          "name": "Боевик"
+        }
+      ],
+      "img": {
+        "high": "/media/titles/fascinated/a41a97d8ed1e1fa952ad47e6c5e2ae98.jpg",
+        "mid": "/media/titles/fascinated/21f6b46f7bf3a2393c587ce5d6e68509.jpg",
+        "low": "/media/titles/fascinated/ccd0a067bea0c3c71cd49e8a9b722dee.jpg"
+      },
+      "categories": [
+        {
+          "id": 5,
+          "name": "Веб"
+        },
+        {
+          "id": 6,
+          "name": "В цвете"
+        }
+      ]
+    },
+    {
+      "id": 62407,
+      "en_name": "A released spirit",
+      "rus_name": "Освобожденный дух",
+      "dir": "a-released-spirit",
+      "is_licensed": false,
+      "issue_year": 2022,
+      "avg_rating": "0.0",
+      "admin_rating": "0.0",
+      "type": "Маньхуа",
+      "total_views": 0,
+      "total_votes": 0,
+      "cover_high": "titles/a-released-spirit/e2583fd1236d15a506911fdc0ba4bc63.jpg",
+      "cover_mid": "titles/a-released-spirit/2a67e1e05b1c6c89e8c0ec060c2ca83b.jpg",
+      "cover_low": "titles/a-released-spirit/2b9ecd6b1f6fbcb8502d8c1c8d070254.jpg",
+      "bookmark_type": null,
+      "genres": [
+        {
+          "id": 2,
+          "name": "Боевик"
+        }
+      ],
+      "img": {
+        "high": "/media/titles/a-released-spirit/e2583fd1236d15a506911fdc0ba4bc63.jpg",
+        "mid": "/media/titles/a-released-spirit/2a67e1e05b1c6c89e8c0ec060c2ca83b.jpg",
+        "low": "/media/titles/a-released-spirit/2b9ecd6b1f6fbcb8502d8c1c8d070254.jpg"
+      },
+      "categories": [
+        {
+          "id": 5,
+          "name": "Веб"
+        }
+      ]
+    },
+    {
+      "id": 62404,
+      "en_name": "Don't do this, Queen!",
+      "rus_name": "Королева, не делайте этого!",
+      "dir": "no-queen",
+      "is_licensed": false,
+      "issue_year": 2022,
+      "avg_rating": "0.0",
+      "admin_rating": "0.0",
+      "type": "Манхва",
+      "total_views": 0,
+      "total_votes": 0,
+      "cover_high": "titles/no-queen/4bdac7fabdcd119076dd28f214f95b3b.jpg",
+      "cover_mid": "titles/no-queen/8a0a4f9e3f59d169fb5603e09aa2e445.jpg",
+      "cover_low": "titles/no-queen/45b9bc13905d2fb057c04a7f5999fb23.jpg",
+      "bookmark_type": null,
+      "genres": [
+        {
+          "id": 2,
+          "name": "Боевик"
+        },
+        {
+          "id": 3,
+          "name": "Боевые искусства"
+        },
+        {
+          "id": 11,
+          "name": "Драма"
+        },
+        {
+          "id": 13,
+          "name": "История"
+        },
+        {
+          "id": 25,
+          "name": "Романтика"
+        },
+        {
+          "id": 28,
+          "name": "Сёдзё"
+        },
+        {
+          "id": 38,
+          "name": "Фэнтези"
+        }
+      ],
+      "img": {
+        "high": "/media/titles/no-queen/4bdac7fabdcd119076dd28f214f95b3b.jpg",
+        "mid": "/media/titles/no-queen/8a0a4f9e3f59d169fb5603e09aa2e445.jpg",
+        "low": "/media/titles/no-queen/45b9bc13905d2fb057c04a7f5999fb23.jpg"
+      },
+      "categories": [
+        {
+          "id": 5,
+          "name": "Веб"
+        },
+        {
+          "id": 6,
+          "name": "В цвете"
+        },
+        {
+          "id": 25,
+          "name": "Средневековье"
+        },
+        {
+          "id": 29,
+          "name": "Военные"
+        },
+        {
+          "id": 40,
+          "name": "Обратный Гарем"
+        },
+        {
+          "id": 47,
+          "name": "Алхимия"
+        },
+        {
+          "id": 54,
+          "name": "Борьба за власть"
+        },
+        {
+          "id": 63,
+          "name": "ГГ женщина"
+        },
+        {
+          "id": 71,
+          "name": "Завоевание мира"
+        },
+        {
+          "id": 81,
+          "name": "Наёмники"
+        },
+        {
+          "id": 87,
+          "name": "Политика"
+        },
+        {
+          "id": 90,
+          "name": "Рыцари"
+        },
+        {
+          "id": 110,
+          "name": "ГГ имба"
+        },
+        {
+          "id": 111,
+          "name": "Умный ГГ"
+        },
+        {
+          "id": 114,
+          "name": "Управление территорией"
+        }
+      ]
+    },
+    {
+      "id": 62402,
+      "en_name": "The Immoral Contract between the Demon Emperor Teacher and the Subordinate Girl",
+      "rus_name": "Учитель императора демонов и аморальный контракт подчиненной девушки",
+      "dir": "the-immoral-contract-between-the-demon-emperor-teacher-and-the-subordinate-girl",
+      "is_licensed": false,
+      "issue_year": 2022,
+      "avg_rating": "0.0",
+      "admin_rating": "0.0",
+      "type": "Манга",
+      "total_views": 0,
+      "total_votes": 0,
+      "cover_high": "titles/the-immoral-contract-between-the-demon-emperor-teacher-and-the-subordinate-girl/8a97d4e7564e34ef2819e03647bd9e25.jpg",
+      "cover_mid": "titles/the-immoral-contract-between-the-demon-emperor-teacher-and-the-subordinate-girl/0bac7b5b2742eda046a1c52d09d39804.jpg",
+      "cover_low": "titles/the-immoral-contract-between-the-demon-emperor-teacher-and-the-subordinate-girl/b05511d43710723746eeaae6321f3d0b.jpg",
+      "bookmark_type": null,
+      "genres": [
+        {
+          "id": 2,
+          "name": "Боевик"
+        }
+      ],
+      "img": {
+        "high": "/media/titles/the-immoral-contract-between-the-demon-emperor-teacher-and-the-subordinate-girl/8a97d4e7564e34ef2819e03647bd9e25.jpg",
+        "mid": "/media/titles/the-immoral-contract-between-the-demon-emperor-teacher-and-the-subordinate-girl/0bac7b5b2742eda046a1c52d09d39804.jpg",
+        "low": "/media/titles/the-immoral-contract-between-the-demon-emperor-teacher-and-the-subordinate-girl/b05511d43710723746eeaae6321f3d0b.jpg"
+      },
+      "categories": [
+        {
+          "id": 22,
+          "name": "Магия"
+        },
+        {
+          "id": 64,
+          "name": "ГГ мужчина"
+        },
+        {
+          "id": 96,
+          "name": "Учитель / ученик"
+        }
+      ]
+    },
+    {
+      "id": 62398,
+      "en_name": "Master Loli's milk is invincible",
+      "rus_name": "Молоко Мастера Лоли непобедимо",
+      "dir": "master-lolis-milk-is-invincible",
+      "is_licensed": false,
+      "issue_year": 2022,
+      "avg_rating": "0.0",
+      "admin_rating": "0.0",
+      "type": "Маньхуа",
+      "total_views": 0,
+      "total_votes": 0,
+      "cover_high": "titles/master-lolis-milk-is-invincible/c2b1e61600d6452eb6620b6d8d59c854.jpg",
+      "cover_mid": "titles/master-lolis-milk-is-invincible/927896658cae68b8901b403b205fd3e4.jpg",
+      "cover_low": "titles/master-lolis-milk-is-invincible/dc1ff1e654f9f49490dbecce01d009b8.jpg",
+      "bookmark_type": null,
+      "genres": [
+        {
+          "id": 2,
+          "name": "Боевик"
+        }
+      ],
+      "img": {
+        "high": "/media/titles/master-lolis-milk-is-invincible/c2b1e61600d6452eb6620b6d8d59c854.jpg",
+        "mid": "/media/titles/master-lolis-milk-is-invincible/927896658cae68b8901b403b205fd3e4.jpg",
+        "low": "/media/titles/master-lolis-milk-is-invincible/dc1ff1e654f9f49490dbecce01d009b8.jpg"
+      },
+      "categories": [
+        {
+          "id": 5,
+          "name": "Веб"
+        },
+        {
+          "id": 6,
+          "name": "В цвете"
+        }
+      ]
+    },
+    {
+      "id": 62379,
+      "en_name": "Hunter Academy’s Strongest Battle God",
+      "rus_name": "Сильнейший боевой бог Академии Охотников",
+      "dir": "hunter-academys-strongest-battle-god",
+      "is_licensed": false,
+      "issue_year": 2020,
+      "avg_rating": "0.0",
+      "admin_rating": "0.0",
+      "type": "Манхва",
+      "total_views": 0,
+      "total_votes": 0,
+      "cover_high": "titles/hunter-academys-strongest-battle-god/6580a99d2d68d2b3d4bcda75bbf749f2.jpg",
+      "cover_mid": "titles/hunter-academys-strongest-battle-god/a7ee2dbffaa03b9053f851ede4ad366c.jpg",
+      "cover_low": "titles/hunter-academys-strongest-battle-god/fe6a84f1590daf0630aa276e845ce85f.jpg",
+      "bookmark_type": null,
+      "genres": [
+        {
+          "id": 2,
+          "name": "Боевик"
+        },
+        {
+          "id": 3,
+          "name": "Боевые искусства"
+        },
+        {
+          "id": 23,
+          "name": "Приключения"
+        },
+        {
+          "id": 25,
+          "name": "Романтика"
+        }
+      ],
+      "img": {
+        "high": "/media/titles/hunter-academys-strongest-battle-god/6580a99d2d68d2b3d4bcda75bbf749f2.jpg",
+        "mid": "/media/titles/hunter-academys-strongest-battle-god/a7ee2dbffaa03b9053f851ede4ad366c.jpg",
+        "low": "/media/titles/hunter-academys-strongest-battle-god/fe6a84f1590daf0630aa276e845ce85f.jpg"
+      },
+      "categories": [
+        {
+          "id": 5,
+          "name": "Веб"
+        },
+        {
+          "id": 6,
+          "name": "В цвете"
+        },
+        {
+          "id": 11,
+          "name": "Сингл"
+        }
+      ]
+    },
+    {
+      "id": 62364,
+      "en_name": "Trainees start by splitting bricks with bare hands",
+      "rus_name": "Стажеры начинают с раскалывания кирпичей голыми руками",
+      "dir": "trainees-start-by-splitting-bricks-with-bare-hands",
+      "is_licensed": false,
+      "issue_year": 2022,
+      "avg_rating": "0.0",
+      "admin_rating": "0.0",
+      "type": "Маньхуа",
+      "total_views": 0,
+      "total_votes": 0,
+      "cover_high": "titles/trainees-start-by-splitting-bricks-with-bare-hands/041902b721b69a0d961c9cacabbdc454.jpg",
+      "cover_mid": "titles/trainees-start-by-splitting-bricks-with-bare-hands/6d4331449654381e7b0bd2b02862cd95.jpg",
+      "cover_low": "titles/trainees-start-by-splitting-bricks-with-bare-hands/ccc21a8f6db01ed15c433865e792f2e4.jpg",
+      "bookmark_type": null,
+      "genres": [
+        {
+          "id": 2,
+          "name": "Боевик"
+        }
+      ],
+      "img": {
+        "high": "/media/titles/trainees-start-by-splitting-bricks-with-bare-hands/041902b721b69a0d961c9cacabbdc454.jpg",
+        "mid": "/media/titles/trainees-start-by-splitting-bricks-with-bare-hands/6d4331449654381e7b0bd2b02862cd95.jpg",
+        "low": "/media/titles/trainees-start-by-splitting-bricks-with-bare-hands/ccc21a8f6db01ed15c433865e792f2e4.jpg"
+      },
+      "categories": [
+        {
+          "id": 5,
+          "name": "Веб"
+        },
+        {
+          "id": 6,
+          "name": "В цвете"
+        }
+      ]
+    },
+    {
+      "id": 62360,
+      "en_name": "Super alloy ship god",
+      "rus_name": "Бог корабля из супер сплава",
+      "dir": "super-alloy-ship-god",
+      "is_licensed": false,
+      "issue_year": 2022,
+      "avg_rating": "0.0",
+      "admin_rating": "0.0",
+      "type": "Маньхуа",
+      "total_views": 0,
+      "total_votes": 0,
+      "cover_high": "titles/super-alloy-ship-god/618359aff6bea0974e68006fc894e208.jpg",
+      "cover_mid": "titles/super-alloy-ship-god/b2ec59bc9e9ba8346c08a4ba16c8dc3a.jpg",
+      "cover_low": "titles/super-alloy-ship-god/3f38c848167323f4517b46974fe0628e.jpg",
+      "bookmark_type": null,
+      "genres": [
+        {
+          "id": 2,
+          "name": "Боевик"
+        }
+      ],
+      "img": {
+        "high": "/media/titles/super-alloy-ship-god/618359aff6bea0974e68006fc894e208.jpg",
+        "mid": "/media/titles/super-alloy-ship-god/b2ec59bc9e9ba8346c08a4ba16c8dc3a.jpg",
+        "low": "/media/titles/super-alloy-ship-god/3f38c848167323f4517b46974fe0628e.jpg"
+      },
+      "categories": [
+        {
+          "id": 5,
+          "name": "Веб"
+        },
+        {
+          "id": 6,
+          "name": "В цвете"
+        }
+      ]
+    },
+    {
+      "id": 62359,
+      "en_name": "Summon Warriors starting from Level 1",
+      "rus_name": "Дорога от первого уровня к статусу сильнейшего игрока",
+      "dir": "summon-warriors-starting-from-level-1",
+      "is_licensed": false,
+      "issue_year": 2022,
+      "avg_rating": "0.0",
+      "admin_rating": "0.0",
+      "type": "Манга",
+      "total_views": 0,
+      "total_votes": 0,
+      "cover_high": "titles/summon-warriors-starting-from-level-1/7b6f47762e2e7906aab98c6cb857d989.jpg",
+      "cover_mid": "titles/summon-warriors-starting-from-level-1/2174a11a9fdf9b134cbfd3333844dbfd.jpg",
+      "cover_low": "titles/summon-warriors-starting-from-level-1/274b42d1e14130b2f17e25f977160cb7.jpg",
+      "bookmark_type": null,
+      "genres": [
+        {
+          "id": 2,
+          "name": "Боевик"
+        },
+        {
+          "id": 23,
+          "name": "Приключения"
+        },
+        {
+          "id": 30,
+          "name": "Сёнэн"
+        },
+        {
+          "id": 38,
+          "name": "Фэнтези"
+        }
+      ],
+      "img": {
+        "high": "/media/titles/summon-warriors-starting-from-level-1/7b6f47762e2e7906aab98c6cb857d989.jpg",
+        "mid": "/media/titles/summon-warriors-starting-from-level-1/2174a11a9fdf9b134cbfd3333844dbfd.jpg",
+        "low": "/media/titles/summon-warriors-starting-from-level-1/274b42d1e14130b2f17e25f977160cb7.jpg"
+      },
+      "categories": [
+        {
+          "id": 5,
+          "name": "Веб"
+        },
+        {
+          "id": 13,
+          "name": "Реинкарнация"
+        },
+        {
+          "id": 14,
+          "name": "Зомби"
+        },
+        {
+          "id": 15,
+          "name": "Демоны"
+        },
+        {
+          "id": 16,
+          "name": "Кулинария"
+        },
+        {
+          "id": 17,
+          "name": "Медицина"
+        },
+        {
+          "id": 19,
+          "name": "Зверолюди"
+        },
+        {
+          "id": 22,
+          "name": "Магия"
+        },
+        {
+          "id": 23,
+          "name": "Горничные"
+        },
+        {
+          "id": 25,
+          "name": "Средневековье"
+        },
+        {
+          "id": 35,
+          "name": "Видеоигры"
+        },
+        {
+          "id": 37,
+          "name": "Девушки-Монстры"
+        },
+        {
+          "id": 38,
+          "name": "Монстры"
+        },
+        {
+          "id": 44,
+          "name": "Виртуальная реальность"
+        },
+        {
+          "id": 45,
+          "name": "Боги"
+        },
+        {
+          "id": 46,
+          "name": "Эльфы"
+        },
+        {
+          "id": 47,
+          "name": "Алхимия"
+        },
+        {
+          "id": 48,
+          "name": "Ангелы"
+        },
+        {
+          "id": 52,
+          "name": "Артефакты"
+        },
+        {
+          "id": 55,
+          "name": "Будущее"
+        },
+        {
+          "id": 57,
+          "name": "Владыка демонов"
+        },
+        {
+          "id": 59,
+          "name": "Волшебные существа"
+        },
+        {
+          "id": 60,
+          "name": "Воспоминания из другого мира"
+        },
+        {
+          "id": 61,
+          "name": "Геймеры"
+        },
+        {
+          "id": 62,
+          "name": "Гильдии"
+        },
+        {
+          "id": 64,
+          "name": "ГГ мужчина"
+        },
+        {
+          "id": 65,
+          "name": "Гоблины"
+        },
+        {
+          "id": 66,
+          "name": "Драконы"
+        },
+        {
+          "id": 67,
+          "name": "Дружба"
+        },
+        {
+          "id": 68,
+          "name": "Ранги силы"
+        },
+        {
+          "id": 69,
+          "name": "Жестокий мир"
+        },
+        {
+          "id": 70,
+          "name": "Животные компаньоны"
+        },
+        {
+          "id": 73,
+          "name": "Игровые элементы"
+        },
+        {
+          "id": 75,
+          "name": "Квесты"
+        },
+        {
+          "id": 78,
+          "name": "Магическая академия"
+        },
+        {
+          "id": 80,
+          "name": "Навыки / способности"
+        },
+        {
+          "id": 81,
+          "name": "Наёмники"
+        },
+        {
+          "id": 83,
+          "name": "Нежить"
+        },
+        {
+          "id": 86,
+          "name": "Подземелья"
+        },
+        {
+          "id": 88,
+          "name": "Разумные расы"
+        },
+        {
+          "id": 90,
+          "name": "Рыцари"
+        },
+        {
+          "id": 91,
+          "name": "Система"
+        },
+        {
+          "id": 110,
+          "name": "ГГ имба"
+        },
+        {
+          "id": 111,
+          "name": "Умный ГГ"
+        },
+        {
+          "id": 112,
+          "name": "Вампиры"
+        },
+        {
+          "id": 113,
+          "name": "Оборотни"
+        },
+        {
+          "id": 115,
+          "name": "Исекай"
+        },
+        {
+          "id": 116,
+          "name": "Врачи / Доктора"
+        },
+        {
+          "id": 117,
+          "name": "Аристократия"
+        },
+        {
+          "id": 118,
+          "name": "Прокачка"
+        },
+        {
+          "id": 122,
+          "name": "Бои на мечах"
+        }
+      ]
+    },
+    {
+      "id": 62358,
+      "en_name": "Metropolitan Harem Road",
+      "rus_name": "Городская дорога гарема",
+      "dir": "metropolitan-harem-road",
+      "is_licensed": false,
+      "issue_year": 2022,
+      "avg_rating": "0.0",
+      "admin_rating": "0.0",
+      "type": "Маньхуа",
+      "total_views": 0,
+      "total_votes": 0,
+      "cover_high": "titles/metropolitan-harem-road/38a5d13f8e18af5f960d0bc9ca8835aa.jpg",
+      "cover_mid": "titles/metropolitan-harem-road/ad78a397a340da50f6b5c651290915ba.jpg",
+      "cover_low": "titles/metropolitan-harem-road/a0d9622a34c2c309a563b19b42eadb0d.jpg",
+      "bookmark_type": null,
+      "genres": [
+        {
+          "id": 2,
+          "name": "Боевик"
+        }
+      ],
+      "img": {
+        "high": "/media/titles/metropolitan-harem-road/38a5d13f8e18af5f960d0bc9ca8835aa.jpg",
+        "mid": "/media/titles/metropolitan-harem-road/ad78a397a340da50f6b5c651290915ba.jpg",
+        "low": "/media/titles/metropolitan-harem-road/a0d9622a34c2c309a563b19b42eadb0d.jpg"
+      },
+      "categories": [
+        {
+          "id": 5,
+          "name": "Веб"
+        }
+      ]
+    },
+    {
+      "id": 62356,
+      "en_name": "Eat my big sword",
+      "rus_name": "Съешь мой большой меч",
+      "dir": "eat-my-big-sword",
+      "is_licensed": false,
+      "issue_year": 2021,
+      "avg_rating": "0.0",
+      "admin_rating": "0.0",
+      "type": "Маньхуа",
+      "total_views": 0,
+      "total_votes": 0,
+      "cover_high": "titles/eat-my-big-sword/a1e9ed981965cd2198730594be0c8367.jpg",
+      "cover_mid": "titles/eat-my-big-sword/0d800d554b92cdd50d8a2161dff6bee5.jpg",
+      "cover_low": "titles/eat-my-big-sword/77447e2a0036ccd71db06d8f9d81a8cb.jpg",
+      "bookmark_type": null,
+      "genres": [
+        {
+          "id": 2,
+          "name": "Боевик"
+        },
+        {
+          "id": 3,
+          "name": "Боевые искусства"
+        },
+        {
+          "id": 5,
+          "name": "Гарем"
+        },
+        {
+          "id": 19,
+          "name": "Мистика"
+        },
+        {
+          "id": 23,
+          "name": "Приключения"
+        },
+        {
+          "id": 27,
+          "name": "Сверхъестественное"
+        },
+        {
+          "id": 37,
+          "name": "Фантастика"
+        }
+      ],
+      "img": {
+        "high": "/media/titles/eat-my-big-sword/a1e9ed981965cd2198730594be0c8367.jpg",
+        "mid": "/media/titles/eat-my-big-sword/0d800d554b92cdd50d8a2161dff6bee5.jpg",
+        "low": "/media/titles/eat-my-big-sword/77447e2a0036ccd71db06d8f9d81a8cb.jpg"
+      },
+      "categories": [
+        {
+          "id": 6,
+          "name": "В цвете"
+        }
+      ]
+    },
+    {
+      "id": 62339,
+      "en_name": "Rusty armor",
+      "rus_name": "Ржавые доспехи",
+      "dir": "rusty-armor",
+      "is_licensed": false,
+      "issue_year": 2022,
+      "avg_rating": "0.0",
+      "admin_rating": "0.0",
+      "type": "Манга",
+      "total_views": 0,
+      "total_votes": 0,
+      "cover_high": "titles/rusty-armor/da8bbdbe7d39069351f6fb29fbb59691.jpg",
+      "cover_mid": "titles/rusty-armor/d501f998431ff1f49d55547060b17f26.jpg",
+      "cover_low": "titles/rusty-armor/f9e0e5faad91fa4c09411db0bc605b14.jpg",
+      "bookmark_type": null,
+      "genres": [
+        {
+          "id": 2,
+          "name": "Боевик"
+        },
+        {
+          "id": 3,
+          "name": "Боевые искусства"
+        },
+        {
+          "id": 7,
+          "name": "Героическое фэнтези"
+        },
+        {
+          "id": 11,
+          "name": "Драма"
+        },
+        {
+          "id": 16,
+          "name": "Элементы юмора"
+        },
+        {
+          "id": 21,
+          "name": "Повседневность"
+        },
+        {
+          "id": 23,
+          "name": "Приключения"
+        },
+        {
+          "id": 24,
+          "name": "Психология"
+        },
+        {
+          "id": 37,
+          "name": "Фантастика"
+        },
+        {
+          "id": 38,
+          "name": "Фэнтези"
+        }
+      ],
+      "img": {
+        "high": "/media/titles/rusty-armor/da8bbdbe7d39069351f6fb29fbb59691.jpg",
+        "mid": "/media/titles/rusty-armor/d501f998431ff1f49d55547060b17f26.jpg",
+        "low": "/media/titles/rusty-armor/f9e0e5faad91fa4c09411db0bc605b14.jpg"
+      },
+      "categories": [
+        {
+          "id": 13,
+          "name": "Реинкарнация"
+        },
+        {
+          "id": 14,
+          "name": "Зомби"
+        },
+        {
+          "id": 15,
+          "name": "Демоны"
+        },
+        {
+          "id": 18,
+          "name": "Культивация"
+        },
+        {
+          "id": 19,
+          "name": "Зверолюди"
+        },
+        {
+          "id": 22,
+          "name": "Магия"
+        },
+        {
+          "id": 23,
+          "name": "Горничные"
+        },
+        {
+          "id": 24,
+          "name": "Мафия"
+        },
+        {
+          "id": 27,
+          "name": "Призраки / Духи"
+        },
+        {
+          "id": 29,
+          "name": "Военные"
+        },
+        {
+          "id": 32,
+          "name": "Полиция"
+        },
+        {
+          "id": 35,
+          "name": "Видеоигры"
+        },
+        {
+          "id": 36,
+          "name": "Преступники / Криминал"
+        },
+        {
+          "id": 38,
+          "name": "Монстры"
+        },
+        {
+          "id": 41,
+          "name": "Выживание"
+        },
+        {
+          "id": 44,
+          "name": "Виртуальная реальность"
+        },
+        {
+          "id": 45,
+          "name": "Боги"
+        },
+        {
+          "id": 48,
+          "name": "Ангелы"
+        },
+        {
+          "id": 50,
+          "name": "Апокалипсис"
+        },
+        {
+          "id": 51,
+          "name": "Армия"
+        }
+      ]
+    },
+    {
+      "id": 62317,
+      "en_name": "Admiral's Monster Wife",
+      "rus_name": "Жена адмирала-монстра",
+      "dir": "admirals-monster-wife",
+      "is_licensed": false,
+      "issue_year": 2022,
+      "avg_rating": "0.0",
+      "admin_rating": "0.0",
+      "type": "Манхва",
+      "total_views": 0,
+      "total_votes": 0,
+      "cover_high": "titles/admirals-monster-wife/082ccde1e609177737c9da2f4c40f9ff.jpg",
+      "cover_mid": "titles/admirals-monster-wife/55978771d9c88bfbb012ea7ef8fb95a3.jpg",
+      "cover_low": "titles/admirals-monster-wife/cd080b50b1b5f473c4441a6558434c3c.jpg",
+      "bookmark_type": null,
+      "genres": [
+        {
+          "id": 2,
+          "name": "Боевик"
+        }
+      ],
+      "img": {
+        "high": "/media/titles/admirals-monster-wife/082ccde1e609177737c9da2f4c40f9ff.jpg",
+        "mid": "/media/titles/admirals-monster-wife/55978771d9c88bfbb012ea7ef8fb95a3.jpg",
+        "low": "/media/titles/admirals-monster-wife/cd080b50b1b5f473c4441a6558434c3c.jpg"
+      },
+      "categories": [
+        {
+          "id": 5,
+          "name": "Веб"
+        },
+        {
+          "id": 6,
+          "name": "В цвете"
+        }
+      ]
+    },
+    {
+      "id": 62299,
+      "en_name": "A necromancer who was kicked out of a heroic party becomes rich and leads a life of research that he loves in the Demon Lord's army.",
+      "rus_name": "Некромант становится богатым и ведет любимую им жизнь исследователя в армии Короля Демонов.",
+      "dir": "a-necromancer-who-was-kicked-out-of-a-heroic-party-becomes-rich-and-leads-a-life-of-research-that-he-loves-in-the-demon-lords-army",
+      "is_licensed": false,
+      "issue_year": 2022,
+      "avg_rating": "0.0",
+      "admin_rating": "0.0",
+      "type": "Манга",
+      "total_views": 0,
+      "total_votes": 0,
+      "cover_high": "titles/a-necromancer-who-was-kicked-out-of-a-heroic-party-becomes-rich-and-leads-a-life-of-research-that-he-loves-in-the-demon-lords-army/59b9ec71220258adb3b03f13963839fa.jpg",
+      "cover_mid": "titles/a-necromancer-who-was-kicked-out-of-a-heroic-party-becomes-rich-and-leads-a-life-of-research-that-he-loves-in-the-demon-lords-army/585b3c673bff7d623949c6339f62f9ac.jpg",
+      "cover_low": "titles/a-necromancer-who-was-kicked-out-of-a-heroic-party-becomes-rich-and-leads-a-life-of-research-that-he-loves-in-the-demon-lords-army/57de9583822d742af352a89ae4b8cd24.jpg",
+      "bookmark_type": null,
+      "genres": [
+        {
+          "id": 2,
+          "name": "Боевик"
+        }
+      ],
+      "img": {
+        "high": "/media/titles/a-necromancer-who-was-kicked-out-of-a-heroic-party-becomes-rich-and-leads-a-life-of-research-that-he-loves-in-the-demon-lords-army/59b9ec71220258adb3b03f13963839fa.jpg",
+        "mid": "/media/titles/a-necromancer-who-was-kicked-out-of-a-heroic-party-becomes-rich-and-leads-a-life-of-research-that-he-loves-in-the-demon-lords-army/585b3c673bff7d623949c6339f62f9ac.jpg",
+        "low": "/media/titles/a-necromancer-who-was-kicked-out-of-a-heroic-party-becomes-rich-and-leads-a-life-of-research-that-he-loves-in-the-demon-lords-army/57de9583822d742af352a89ae4b8cd24.jpg"
+      },
+      "categories": [
+        {
+          "id": 22,
+          "name": "Магия"
+        }
+      ]
+    },
+    {
+      "id": 62297,
+      "en_name": "The Quеens",
+      "rus_name": "Королевы",
+      "dir": "the-quens",
+      "is_licensed": false,
+      "issue_year": 2021,
+      "avg_rating": "0.0",
+      "admin_rating": "0.0",
+      "type": "Манхва",
+      "total_views": 0,
+      "total_votes": 0,
+      "cover_high": "titles/the-quens/e6ea9768b62adc0ccee587db32f7f396.jpg",
+      "cover_mid": "titles/the-quens/71b9fda25502db93d57b554e8d092b1b.jpg",
+      "cover_low": "titles/the-quens/13458bc9134508d7ecd7d0435b0d6bde.jpg",
+      "bookmark_type": null,
+      "genres": [
+        {
+          "id": 2,
+          "name": "Боевик"
+        }
+      ],
+      "img": {
+        "high": "/media/titles/the-quens/e6ea9768b62adc0ccee587db32f7f396.jpg",
+        "mid": "/media/titles/the-quens/71b9fda25502db93d57b554e8d092b1b.jpg",
+        "low": "/media/titles/the-quens/13458bc9134508d7ecd7d0435b0d6bde.jpg"
+      },
+      "categories": null
+    },
+    {
+      "id": 62290,
+      "en_name": "I have a hall of souls",
+      "rus_name": "У меня есть зал душ",
+      "dir": "i-have-a-hall-of-souls",
+      "is_licensed": false,
+      "issue_year": 2020,
+      "avg_rating": "0.0",
+      "admin_rating": "0.0",
+      "type": "Маньхуа",
+      "total_views": 0,
+      "total_votes": 0,
+      "cover_high": "titles/i-have-a-hall-of-souls/7556bc0674d6f024cac44cd59774a298.jpg",
+      "cover_mid": "titles/i-have-a-hall-of-souls/f669094c521880d0a244f86c965b09eb.jpg",
+      "cover_low": "titles/i-have-a-hall-of-souls/7ea9353365ba070acc76af84f7aeabcc.jpg",
+      "bookmark_type": null,
+      "genres": [
+        {
+          "id": 2,
+          "name": "Боевик"
+        }
+      ],
+      "img": {
+        "high": "/media/titles/i-have-a-hall-of-souls/7556bc0674d6f024cac44cd59774a298.jpg",
+        "mid": "/media/titles/i-have-a-hall-of-souls/f669094c521880d0a244f86c965b09eb.jpg",
+        "low": "/media/titles/i-have-a-hall-of-souls/7ea9353365ba070acc76af84f7aeabcc.jpg"
+      },
+      "categories": [
+        {
+          "id": 5,
+          "name": "Веб"
+        },
+        {
+          "id": 6,
+          "name": "В цвете"
+        }
+      ]
+    },
+    {
+      "id": 62287,
+      "en_name": "Reincarnated into the weakest race of the Demon King of God Killing and becomes the strongest in history",
+      "rus_name": "Регрессия короля демона, убивающего богов",
+      "dir": "reincarnated-into-the-weakest-race-of-the-demon-king-of-god-killing-and-becomes-the-strongest-in-history",
+      "is_licensed": false,
+      "issue_year": 2022,
+      "avg_rating": "0.0",
+      "admin_rating": "0.0",
+      "type": "Манга",
+      "total_views": 0,
+      "total_votes": 0,
+      "cover_high": "titles/reincarnated-into-the-weakest-race-of-the-demon-king-of-god-killing-and-becomes-the-strongest-in-history/4e7f6ac6a04cffabb97d12b9e2a9d95a.jpg",
+      "cover_mid": "titles/reincarnated-into-the-weakest-race-of-the-demon-king-of-god-killing-and-becomes-the-strongest-in-history/aa5a7a7960178e9921002732fa92af9b.jpg",
+      "cover_low": "titles/reincarnated-into-the-weakest-race-of-the-demon-king-of-god-killing-and-becomes-the-strongest-in-history/cd55353513b708b121809cbc698fd983.jpg",
+      "bookmark_type": null,
+      "genres": [
+        {
+          "id": 2,
+          "name": "Боевик"
+        },
+        {
+          "id": 23,
+          "name": "Приключения"
+        },
+        {
+          "id": 30,
+          "name": "Сёнэн"
+        },
+        {
+          "id": 38,
+          "name": "Фэнтези"
+        }
+      ],
+      "img": {
+        "high": "/media/titles/reincarnated-into-the-weakest-race-of-the-demon-king-of-god-killing-and-becomes-the-strongest-in-history/4e7f6ac6a04cffabb97d12b9e2a9d95a.jpg",
+        "mid": "/media/titles/reincarnated-into-the-weakest-race-of-the-demon-king-of-god-killing-and-becomes-the-strongest-in-history/aa5a7a7960178e9921002732fa92af9b.jpg",
+        "low": "/media/titles/reincarnated-into-the-weakest-race-of-the-demon-king-of-god-killing-and-becomes-the-strongest-in-history/cd55353513b708b121809cbc698fd983.jpg"
+      },
+      "categories": [
+        {
+          "id": 13,
+          "name": "Реинкарнация"
+        },
+        {
+          "id": 15,
+          "name": "Демоны"
+        },
+        {
+          "id": 19,
+          "name": "Зверолюди"
+        },
+        {
+          "id": 22,
+          "name": "Магия"
+        },
+        {
+          "id": 25,
+          "name": "Средневековье"
+        },
+        {
+          "id": 26,
+          "name": "Антигерой"
+        },
+        {
+          "id": 27,
+          "name": "Призраки / Духи"
+        },
+        {
+          "id": 37,
+          "name": "Девушки-Монстры"
+        },
+        {
+          "id": 38,
+          "name": "Монстры"
+        },
+        {
+          "id": 41,
+          "name": "Выживание"
+        },
+        {
+          "id": 46,
+          "name": "Эльфы"
+        },
+        {
+          "id": 50,
+          "name": "Апокалипсис"
+        },
+        {
+          "id": 51,
+          "name": "Армия"
+        },
+        {
+          "id": 52,
+          "name": "Артефакты"
+        },
+        {
+          "id": 54,
+          "name": "Борьба за власть"
+        },
+        {
+          "id": 57,
+          "name": "Владыка демонов"
+        },
+        {
+          "id": 59,
+          "name": "Волшебные существа"
+        },
+        {
+          "id": 64,
+          "name": "ГГ мужчина"
+        },
+        {
+          "id": 66,
+          "name": "Драконы"
+        },
+        {
+          "id": 68,
+          "name": "Ранги силы"
+        },
+        {
+          "id": 69,
+          "name": "Жестокий мир"
+        },
+        {
+          "id": 71,
+          "name": "Завоевание мира"
+        },
+        {
+          "id": 79,
+          "name": "Месть"
+        },
+        {
+          "id": 80,
+          "name": "Навыки / способности"
+        },
+        {
+          "id": 81,
+          "name": "Наёмники"
+        },
+        {
+          "id": 82,
+          "name": "Насилие / жестокость"
+        },
+        {
+          "id": 86,
+          "name": "Подземелья"
+        },
+        {
+          "id": 88,
+          "name": "Разумные расы"
+        },
+        {
+          "id": 90,
+          "name": "Рыцари"
+        },
+        {
+          "id": 93,
+          "name": "Скрытие личности"
+        },
+        {
+          "id": 99,
+          "name": "Шантаж"
+        },
+        {
+          "id": 110,
+          "name": "ГГ имба"
+        },
+        {
+          "id": 111,
+          "name": "Умный ГГ"
+        },
+        {
+          "id": 115,
+          "name": "Исекай"
+        },
+        {
+          "id": 118,
+          "name": "Прокачка"
+        },
+        {
+          "id": 122,
+          "name": "Бои на мечах"
+        }
+      ]
+    },
+    {
+      "id": 62266,
+      "en_name": "Former brave man wants to live quietly.",
+      "rus_name": "Бывший храбрец хочет жить спокойно",
+      "dir": "former-brave-man-wants-to-live-quietly",
+      "is_licensed": false,
+      "issue_year": 2022,
+      "avg_rating": "0.0",
+      "admin_rating": "0.0",
+      "type": "Манга",
+      "total_views": 0,
+      "total_votes": 0,
+      "cover_high": "titles/former-brave-man-wants-to-live-quietly/aee1f887e95124c1957cd23d7cc2cc43.jpg",
+      "cover_mid": "titles/former-brave-man-wants-to-live-quietly/ae2c44299628f408d21e9e620db8f3ee.jpg",
+      "cover_low": "titles/former-brave-man-wants-to-live-quietly/f3cf6a883fa6bac6f2fbf70f28d05c5e.jpg",
+      "bookmark_type": null,
+      "genres": [
+        {
+          "id": 2,
+          "name": "Боевик"
+        },
+        {
+          "id": 23,
+          "name": "Приключения"
+        },
+        {
+          "id": 30,
+          "name": "Сёнэн"
+        },
+        {
+          "id": 38,
+          "name": "Фэнтези"
+        }
+      ],
+      "img": {
+        "high": "/media/titles/former-brave-man-wants-to-live-quietly/aee1f887e95124c1957cd23d7cc2cc43.jpg",
+        "mid": "/media/titles/former-brave-man-wants-to-live-quietly/ae2c44299628f408d21e9e620db8f3ee.jpg",
+        "low": "/media/titles/former-brave-man-wants-to-live-quietly/f3cf6a883fa6bac6f2fbf70f28d05c5e.jpg"
+      },
+      "categories": [
+        {
+          "id": 19,
+          "name": "Зверолюди"
+        },
+        {
+          "id": 22,
+          "name": "Магия"
+        },
+        {
+          "id": 25,
+          "name": "Средневековье"
+        },
+        {
+          "id": 36,
+          "name": "Преступники / Криминал"
+        },
+        {
+          "id": 38,
+          "name": "Монстры"
+        },
+        {
+          "id": 41,
+          "name": "Выживание"
+        },
+        {
+          "id": 51,
+          "name": "Армия"
+        },
+        {
+          "id": 52,
+          "name": "Артефакты"
+        },
+        {
+          "id": 54,
+          "name": "Борьба за власть"
+        },
+        {
+          "id": 57,
+          "name": "Владыка демонов"
+        },
+        {
+          "id": 59,
+          "name": "Волшебные существа"
+        },
+        {
+          "id": 62,
+          "name": "Гильдии"
+        },
+        {
+          "id": 64,
+          "name": "ГГ мужчина"
+        },
+        {
+          "id": 66,
+          "name": "Драконы"
+        },
+        {
+          "id": 68,
+          "name": "Ранги силы"
+        },
+        {
+          "id": 69,
+          "name": "Жестокий мир"
+        },
+        {
+          "id": 70,
+          "name": "Животные компаньоны"
+        },
+        {
+          "id": 80,
+          "name": "Навыки / способности"
+        },
+        {
+          "id": 81,
+          "name": "Наёмники"
+        },
+        {
+          "id": 82,
+          "name": "Насилие / жестокость"
+        },
+        {
+          "id": 86,
+          "name": "Подземелья"
+        },
+        {
+          "id": 93,
+          "name": "Скрытие личности"
+        },
+        {
+          "id": 94,
+          "name": "Спасение мира"
+        },
+        {
+          "id": 110,
+          "name": "ГГ имба"
+        },
+        {
+          "id": 111,
+          "name": "Умный ГГ"
+        },
+        {
+          "id": 117,
+          "name": "Аристократия"
+        },
+        {
+          "id": 118,
+          "name": "Прокачка"
+        },
+        {
+          "id": 122,
+          "name": "Бои на мечах"
+        }
+      ]
+    },
+    {
+      "id": 62261,
+      "en_name": "A world where only superhumans are harmed",
+      "rus_name": "Мир, в котором страдают только сверхлюди",
+      "dir": "a-world-where-only-the-superpowers-are-harmed",
+      "is_licensed": false,
+      "issue_year": 2021,
+      "avg_rating": "0.0",
+      "admin_rating": "0.0",
+      "type": "Маньхуа",
+      "total_views": 0,
+      "total_votes": 0,
+      "cover_high": "titles/a-world-where-only-the-superpowers-are-harmed/7751c073d6963b01916d78a5d1084afb.jpg",
+      "cover_mid": "titles/a-world-where-only-the-superpowers-are-harmed/17a9006f774524665a0cb60990cccf0c.jpg",
+      "cover_low": "titles/a-world-where-only-the-superpowers-are-harmed/81de463d00afbecebf85eb5e69dc20db.jpg",
+      "bookmark_type": null,
+      "genres": [
+        {
+          "id": 2,
+          "name": "Боевик"
+        },
+        {
+          "id": 3,
+          "name": "Боевые искусства"
+        },
+        {
+          "id": 19,
+          "name": "Мистика"
+        },
+        {
+          "id": 23,
+          "name": "Приключения"
+        },
+        {
+          "id": 27,
+          "name": "Сверхъестественное"
+        },
+        {
+          "id": 34,
+          "name": "Трагедия"
+        },
+        {
+          "id": 37,
+          "name": "Фантастика"
+        },
+        {
+          "id": 38,
+          "name": "Фэнтези"
+        }
+      ],
+      "img": {
+        "high": "/media/titles/a-world-where-only-the-superpowers-are-harmed/7751c073d6963b01916d78a5d1084afb.jpg",
+        "mid": "/media/titles/a-world-where-only-the-superpowers-are-harmed/17a9006f774524665a0cb60990cccf0c.jpg",
+        "low": "/media/titles/a-world-where-only-the-superpowers-are-harmed/81de463d00afbecebf85eb5e69dc20db.jpg"
+      },
+      "categories": [
+        {
+          "id": 6,
+          "name": "В цвете"
+        }
+      ]
+    },
+    {
+      "id": 62235,
+      "en_name": "The Exiled Lord's Story of Cultivating an Isolated Island - Aiming for the Happiest Domain in the World with a Secret Gift [Craft Skill]! ～I'll be back!",
+      "rus_name": "История изгнанного лорда о культивировании изолированного острова - стремление стать самым счастливым доменом в мире с помощью секретного подарка [навык ремесла]! ～Секретный подарок",
+      "dir": "the-exiled-lords-story-of-cultivating-an-isolated-island--aiming-for-the-happiest-domain-in-the-world-with-a-secret-gift-craft-skill-ill-be-back",
+      "is_licensed": false,
+      "issue_year": 2022,
+      "avg_rating": "0.0",
+      "admin_rating": "0.0",
+      "type": "Манга",
+      "total_views": 0,
+      "total_votes": 0,
+      "cover_high": "titles/the-exiled-lords-story-of-cultivating-an-isolated-island--aiming-for-the-happiest-domain-in-the-world-with-a-secret-gift-craft-skill-ill-be-back/c207334ce2e37ebaad859cd7e20d6814.jpg",
+      "cover_mid": "titles/the-exiled-lords-story-of-cultivating-an-isolated-island--aiming-for-the-happiest-domain-in-the-world-with-a-secret-gift-craft-skill-ill-be-back/e50b0b009989a6b44007e9cbed433795.jpg",
+      "cover_low": "titles/the-exiled-lords-story-of-cultivating-an-isolated-island--aiming-for-the-happiest-domain-in-the-world-with-a-secret-gift-craft-skill-ill-be-back/cb0d5b88decf57aa6a9e1b2541b8475e.jpg",
+      "bookmark_type": null,
+      "genres": [
+        {
+          "id": 2,
+          "name": "Боевик"
+        }
+      ],
+      "img": {
+        "high": "/media/titles/the-exiled-lords-story-of-cultivating-an-isolated-island--aiming-for-the-happiest-domain-in-the-world-with-a-secret-gift-craft-skill-ill-be-back/c207334ce2e37ebaad859cd7e20d6814.jpg",
+        "mid": "/media/titles/the-exiled-lords-story-of-cultivating-an-isolated-island--aiming-for-the-happiest-domain-in-the-world-with-a-secret-gift-craft-skill-ill-be-back/e50b0b009989a6b44007e9cbed433795.jpg",
+        "low": "/media/titles/the-exiled-lords-story-of-cultivating-an-isolated-island--aiming-for-the-happiest-domain-in-the-world-with-a-secret-gift-craft-skill-ill-be-back/cb0d5b88decf57aa6a9e1b2541b8475e.jpg"
+      },
+      "categories": [
+        {
+          "id": 22,
+          "name": "Магия"
+        }
+      ]
+    },
+    {
+      "id": 62220,
+      "en_name": "Even though the human race is about to be destroyed, the NEET hero won't work",
+      "rus_name": "Даже перед концом человечества, этот герой NEET не желает работать.",
+      "dir": "even-though-the-human-race-is-about-to-be-destroyed-the-neet-hero-wont-work",
+      "is_licensed": false,
+      "issue_year": 2022,
+      "avg_rating": "0.0",
+      "admin_rating": "0.0",
+      "type": "Манга",
+      "total_views": 0,
+      "total_votes": 0,
+      "cover_high": "titles/even-though-the-human-race-is-about-to-be-destroyed-the-neet-hero-wont-work/a644327d83f31cf26cf53a4b62b9f307.jpg",
+      "cover_mid": "titles/even-though-the-human-race-is-about-to-be-destroyed-the-neet-hero-wont-work/5e6dbde6596cc7a4050911fb0bd5a778.jpg",
+      "cover_low": "titles/even-though-the-human-race-is-about-to-be-destroyed-the-neet-hero-wont-work/b17e12fc1996ec41ec47d48359161c11.jpg",
+      "bookmark_type": null,
+      "genres": [
+        {
+          "id": 2,
+          "name": "Боевик"
+        },
+        {
+          "id": 3,
+          "name": "Боевые искусства"
+        },
+        {
+          "id": 13,
+          "name": "История"
+        },
+        {
+          "id": 16,
+          "name": "Элементы юмора"
+        },
+        {
+          "id": 21,
+          "name": "Повседневность"
+        },
+        {
+          "id": 23,
+          "name": "Приключения"
+        },
+        {
+          "id": 30,
+          "name": "Сёнэн"
+        }
+      ],
+      "img": {
+        "high": "/media/titles/even-though-the-human-race-is-about-to-be-destroyed-the-neet-hero-wont-work/a644327d83f31cf26cf53a4b62b9f307.jpg",
+        "mid": "/media/titles/even-though-the-human-race-is-about-to-be-destroyed-the-neet-hero-wont-work/5e6dbde6596cc7a4050911fb0bd5a778.jpg",
+        "low": "/media/titles/even-though-the-human-race-is-about-to-be-destroyed-the-neet-hero-wont-work/b17e12fc1996ec41ec47d48359161c11.jpg"
+      },
+      "categories": [
+        {
+          "id": 5,
+          "name": "Веб"
+        },
+        {
+          "id": 14,
+          "name": "Зомби"
+        },
+        {
+          "id": 15,
+          "name": "Демоны"
+        },
+        {
+          "id": 19,
+          "name": "Зверолюди"
+        },
+        {
+          "id": 22,
+          "name": "Магия"
+        },
+        {
+          "id": 23,
+          "name": "Горничные"
+        },
+        {
+          "id": 25,
+          "name": "Средневековье"
+        },
+        {
+          "id": 38,
+          "name": "Монстры"
+        },
+        {
+          "id": 41,
+          "name": "Выживание"
+        },
+        {
+          "id": 45,
+          "name": "Боги"
+        },
+        {
+          "id": 52,
+          "name": "Артефакты"
+        },
+        {
+          "id": 54,
+          "name": "Борьба за власть"
+        },
+        {
+          "id": 57,
+          "name": "Владыка демонов"
+        },
+        {
+          "id": 59,
+          "name": "Волшебные существа"
+        },
+        {
+          "id": 62,
+          "name": "Гильдии"
+        },
+        {
+          "id": 64,
+          "name": "ГГ мужчина"
+        },
+        {
+          "id": 67,
+          "name": "Дружба"
+        },
+        {
+          "id": 68,
+          "name": "Ранги силы"
+        },
+        {
+          "id": 71,
+          "name": "Завоевание мира"
+        },
+        {
+          "id": 80,
+          "name": "Навыки / способности"
+        },
+        {
+          "id": 81,
+          "name": "Наёмники"
+        },
+        {
+          "id": 90,
+          "name": "Рыцари"
+        },
+        {
+          "id": 94,
+          "name": "Спасение мира"
+        },
+        {
+          "id": 114,
+          "name": "Управление территорией"
+        },
+        {
+          "id": 117,
+          "name": "Аристократия"
+        },
+        {
+          "id": 118,
+          "name": "Прокачка"
+        },
+        {
+          "id": 122,
+          "name": "Бои на мечах"
+        }
+      ]
+    },
+    {
+      "id": 62218,
+      "en_name": "Renaissance Eve",
+      "rus_name": "Эпоха Возрождения",
+      "dir": "renaissance-eve",
+      "is_licensed": false,
+      "issue_year": 2012,
+      "avg_rating": "0.0",
+      "admin_rating": "0.0",
+      "type": "Манга",
+      "total_views": 16,
+      "total_votes": 7,
+      "cover_high": "titles/renaissance-eve/16234e2ee88dfa4ac199e3f3b465900e.jpg",
+      "cover_mid": "titles/renaissance-eve/5135bb9620e75cf1fec2079e4887db25.jpg",
+      "cover_low": "titles/renaissance-eve/ea89442c8afe7e55e18b4e74848f2c1d.jpg",
+      "bookmark_type": null,
+      "genres": [
+        {
+          "id": 2,
+          "name": "Боевик"
+        },
+        {
+          "id": 11,
+          "name": "Драма"
+        },
+        {
+          "id": 13,
+          "name": "История"
+        },
+        {
+          "id": 19,
+          "name": "Мистика"
+        },
+        {
+          "id": 27,
+          "name": "Сверхъестественное"
+        },
+        {
+          "id": 30,
+          "name": "Сёнэн"
+        }
+      ],
+      "img": {
+        "high": "/media/titles/renaissance-eve/16234e2ee88dfa4ac199e3f3b465900e.jpg",
+        "mid": "/media/titles/renaissance-eve/5135bb9620e75cf1fec2079e4887db25.jpg",
+        "low": "/media/titles/renaissance-eve/ea89442c8afe7e55e18b4e74848f2c1d.jpg"
+      },
+      "categories": [
+        {
+          "id": 64,
+          "name": "ГГ мужчина"
+        },
+        {
+          "id": 80,
+          "name": "Навыки / способности"
+        },
+        {
+          "id": 111,
+          "name": "Умный ГГ"
+        }
+      ]
+    },
+    {
+      "id": 62212,
+      "en_name": "Мarriage and sword",
+      "rus_name": "Брак и меч",
+      "dir": "mary-and-sword",
+      "is_licensed": false,
+      "issue_year": 2022,
+      "avg_rating": "0.0",
+      "admin_rating": "0.0",
+      "type": "Манхва",
+      "total_views": 0,
+      "total_votes": 0,
+      "cover_high": "titles/mary-and-sword/7ef81ede0dd5b911b82a34dc89fe2eaa.jpg",
+      "cover_mid": "titles/mary-and-sword/c389010e4107900c9f148da1b601bbde.jpg",
+      "cover_low": "titles/mary-and-sword/ca88b2733de6ad0ff79afc0d5fbf4a8c.jpg",
+      "bookmark_type": null,
+      "genres": [
+        {
+          "id": 2,
+          "name": "Боевик"
+        },
+        {
+          "id": 3,
+          "name": "Боевые искусства"
+        },
+        {
+          "id": 11,
+          "name": "Драма"
+        },
+        {
+          "id": 21,
+          "name": "Повседневность"
+        },
+        {
+          "id": 25,
+          "name": "Романтика"
+        },
+        {
+          "id": 28,
+          "name": "Сёдзё"
+        },
+        {
+          "id": 32,
+          "name": "Спорт"
+        },
+        {
+          "id": 38,
+          "name": "Фэнтези"
+        }
+      ],
+      "img": {
+        "high": "/media/titles/mary-and-sword/7ef81ede0dd5b911b82a34dc89fe2eaa.jpg",
+        "mid": "/media/titles/mary-and-sword/c389010e4107900c9f148da1b601bbde.jpg",
+        "low": "/media/titles/mary-and-sword/ca88b2733de6ad0ff79afc0d5fbf4a8c.jpg"
+      },
+      "categories": [
+        {
+          "id": 5,
+          "name": "Веб"
+        },
+        {
+          "id": 6,
+          "name": "В цвете"
+        },
+        {
+          "id": 13,
+          "name": "Реинкарнация"
+        },
+        {
+          "id": 22,
+          "name": "Магия"
+        },
+        {
+          "id": 23,
+          "name": "Горничные"
+        },
+        {
+          "id": 25,
+          "name": "Средневековье"
+        },
+        {
+          "id": 38,
+          "name": "Монстры"
+        },
+        {
+          "id": 41,
+          "name": "Выживание"
+        },
+        {
+          "id": 51,
+          "name": "Армия"
+        },
+        {
+          "id": 52,
+          "name": "Артефакты"
+        },
+        {
+          "id": 63,
+          "name": "ГГ женщина"
+        },
+        {
+          "id": 67,
+          "name": "Дружба"
+        },
+        {
+          "id": 80,
+          "name": "Навыки / способности"
+        },
+        {
+          "id": 81,
+          "name": "Наёмники"
+        },
+        {
+          "id": 90,
+          "name": "Рыцари"
+        },
+        {
+          "id": 114,
+          "name": "Управление территорией"
+        },
+        {
+          "id": 115,
+          "name": "Исекай"
+        },
+        {
+          "id": 117,
+          "name": "Аристократия"
+        },
+        {
+          "id": 122,
+          "name": "Бои на мечах"
+        },
+        {
+          "id": 125,
+          "name": "Грузовик-сан"
+        }
+      ]
+    },
+    {
+      "id": 62207,
+      "en_name": "connections",
+      "rus_name": "Связи",
+      "dir": "connections",
+      "is_licensed": true,
+      "issue_year": 2022,
+      "avg_rating": "7.1",
+      "admin_rating": "0.0",
+      "type": "Рукомикс",
+      "total_views": 92,
+      "total_votes": 20,
+      "cover_high": "titles/connections/95a66e4528709855c0da169feebd5505.jpg",
+      "cover_mid": "titles/connections/1d73da1544a5c40ec328ff54b915edf8.jpg",
+      "cover_low": "titles/connections/d6d9ca1c5ac286eb0c4eee28c5608d14.jpg",
+      "bookmark_type": null,
+      "genres": [
+        {
+          "id": 2,
+          "name": "Боевик"
+        },
+        {
+          "id": 22,
+          "name": "Постапокалиптика"
+        },
+        {
+          "id": 23,
+          "name": "Приключения"
+        },
+        {
+          "id": 38,
+          "name": "Фэнтези"
+        },
+        {
+          "id": 50,
+          "name": "Комедия"
+        }
+      ],
+      "img": {
+        "high": "/media/titles/connections/95a66e4528709855c0da169feebd5505.jpg",
+        "mid": "/media/titles/connections/1d73da1544a5c40ec328ff54b915edf8.jpg",
+        "low": "/media/titles/connections/d6d9ca1c5ac286eb0c4eee28c5608d14.jpg"
+      },
+      "categories": [
+        {
+          "id": 5,
+          "name": "Веб"
+        },
+        {
+          "id": 6,
+          "name": "В цвете"
+        },
+        {
+          "id": 22,
+          "name": "Магия"
+        },
+        {
+          "id": 38,
+          "name": "Монстры"
+        },
+        {
+          "id": 63,
+          "name": "ГГ женщина"
+        },
+        {
+          "id": 80,
+          "name": "Навыки / способности"
+        },
+        {
+          "id": 115,
+          "name": "Исекай"
+        }
+      ]
+    },
+    {
+      "id": 62206,
+      "en_name": "Anemon Theater",
+      "rus_name": "Театр Анемона",
+      "dir": "anemon-theater",
+      "is_licensed": false,
+      "issue_year": 2022,
+      "avg_rating": "0.0",
+      "admin_rating": "0.0",
+      "type": "Манхва",
+      "total_views": 0,
+      "total_votes": 0,
+      "cover_high": "titles/anemon-theater/768691149d6ce0cf84147881ebca79c4.jpg",
+      "cover_mid": "titles/anemon-theater/85e383c56f48a2c3a6e768c7e7c6a850.jpg",
+      "cover_low": "titles/anemon-theater/9a90d1387c9867771057770547f3d90b.jpg",
+      "bookmark_type": null,
+      "genres": [
+        {
+          "id": 2,
+          "name": "Боевик"
+        }
+      ],
+      "img": {
+        "high": "/media/titles/anemon-theater/768691149d6ce0cf84147881ebca79c4.jpg",
+        "mid": "/media/titles/anemon-theater/85e383c56f48a2c3a6e768c7e7c6a850.jpg",
+        "low": "/media/titles/anemon-theater/9a90d1387c9867771057770547f3d90b.jpg"
+      },
+      "categories": [
+        {
+          "id": 5,
+          "name": "Веб"
+        }
+      ]
+    },
+    {
+      "id": 62201,
+      "en_name": "Absolute God's Game",
+      "rus_name": "Абсолютная игра Бога",
+      "dir": "absolute-gods-game",
+      "is_licensed": false,
+      "issue_year": 2022,
+      "avg_rating": "0.0",
+      "admin_rating": "0.0",
+      "type": "Манга",
+      "total_views": 0,
+      "total_votes": 0,
+      "cover_high": "titles/absolute-gods-game/2cd2adce9bc1277b8614f13d60086568.jpg",
+      "cover_mid": "titles/absolute-gods-game/a45c2a2882ef4e87dfd0e5976eee7fba.jpg",
+      "cover_low": "titles/absolute-gods-game/73fe3ea11190ef32b49e602fe4002db5.jpg",
+      "bookmark_type": null,
+      "genres": [
+        {
+          "id": 2,
+          "name": "Боевик"
+        }
+      ],
+      "img": {
+        "high": "/media/titles/absolute-gods-game/2cd2adce9bc1277b8614f13d60086568.jpg",
+        "mid": "/media/titles/absolute-gods-game/a45c2a2882ef4e87dfd0e5976eee7fba.jpg",
+        "low": "/media/titles/absolute-gods-game/73fe3ea11190ef32b49e602fe4002db5.jpg"
+      },
+      "categories": [
+        {
+          "id": 6,
+          "name": "В цвете"
+        }
+      ]
+    }
+  ],
+  "props": {
+    "total_items": 5044,
+    "total_pages": 169,
+    "page": 1
+  }
+}
