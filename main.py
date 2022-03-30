@@ -24,46 +24,51 @@ def save(name):
     s = s + "\n]"
     f.write(s)
 
-st = """<ul class="bycategories">
-<li><a href="https://www.uwatchfree.fo/category/action/">Action</a></li>
-<li><a href="https://www.uwatchfree.fo/category/adult/">Adult</a></li>
-<li><a href="https://www.uwatchfree.fo/category/adventure/">Adventure</a></li>
-<li><a href="https://www.uwatchfree.fo/category/animation/">Animation</a></li>
-<li><a href="https://www.uwatchfree.fo/category/bengali/">Bengali</a></li>
-<li><a href="https://www.uwatchfree.fo/category/biography/">Biography</a></li>
-<li><a href="https://www.uwatchfree.fo/category/comedy/">Comedy</a></li>
-<li><a href="https://www.uwatchfree.fo/category/crime/">Crime</a></li>
-<li><a href="https://www.uwatchfree.fo/category/documentaries/">Documentaries</a></li>
-<li><a href="https://www.uwatchfree.fo/category/drama/">Drama</a></li>
-<li><a href="https://www.uwatchfree.fo/category/dubbed/">Dubbed</a></li>
-<li><a href="https://www.uwatchfree.fo/category/family/">Family</a></li>
-<li><a href="https://www.uwatchfree.fo/category/fantasy/">Fantasy</a></li>
-<li><a href="https://www.uwatchfree.fo/category/featured/">Featured</a></li>
-<li><a href="https://www.uwatchfree.fo/category/gujarati/">Gujarati</a></li>
-<li><a href="https://www.uwatchfree.fo/category/hd/">HD</a></li>
-<li><a href="https://www.uwatchfree.fo/category/hindi/">Hindi</a></li>
-<li><a href="https://www.uwatchfree.fo/category/history/">History</a></li>
-<li><a href="https://www.uwatchfree.fo/category/hollywood/">Hollywood</a></li>
-<li><a href="https://www.uwatchfree.fo/category/horror/">Horror</a></li>
-<li><a href="https://www.uwatchfree.fo/category/kannada/">Kannada</a></li>
-<li><a href="https://www.uwatchfree.fo/category/malayalam/">Malayalam</a></li>
-<li><a href="https://www.uwatchfree.fo/category/marathi/">Marathi</a></li>
-<li><a href="https://www.uwatchfree.fo/category/music/">Music</a></li>
-<li><a href="https://www.uwatchfree.fo/category/musical/">Musical</a></li>
-<li><a href="https://www.uwatchfree.fo/category/mystery/">Mystery</a></li>
-<li><a href="https://www.uwatchfree.fo/category/punjabi/">Punjabi</a></li>
-<li><a href="https://www.uwatchfree.fo/category/romance/">Romance</a></li>
-<li><a href="https://www.uwatchfree.fo/category/sci-fi/">Sci-Fi</a></li>
-<li><a href="https://www.uwatchfree.fo/category/short/">Short</a></li>
-<li><a href="https://www.uwatchfree.fo/category/sport/">Sport</a></li>
-<li><a href="https://www.uwatchfree.fo/category/tamil/">Tamil</a></li>
-<li><a href="https://www.uwatchfree.fo/category/telugu/">Telugu</a></li>
-<li><a href="https://www.uwatchfree.fo/category/thriller/">Thriller</a></li>
-<li><a href="https://www.uwatchfree.fo/category/tv-series/">TV-Series</a></li>
-<li><a href="https://www.uwatchfree.fo/category/urdu/">Urdu</a></li>
-<li><a href="https://www.uwatchfree.fo/category/war/">War</a></li>
-<li><a href="https://www.uwatchfree.fo/category/western/">Western</a></li>
-</ul>"""
+st = """<select id="mangas-category" title="category" name="category" class="input-jr">
+<option value="null"> Catégorie </option>
+<option value="4-koma"> 4-koma </option>
+<option value="action" selected=""> Action </option>
+<option value="adulte"> Adulte </option>
+<option value="amitie"> Amitié </option>
+<option value="amour"> Amour </option>
+<option value="arts-martiaux"> Arts martiaux </option>
+<option value="aventure"> Aventure </option>
+<option value="combat"> Combat </option>
+<option value="comedie"> Comédie </option>
+<option value="drame"> Drame </option>
+<option value="ecchi"> Ecchi </option>
+<option value="fantastique"> Fantastique </option>
+<option value="gender-bender"> Gender Bender </option>
+<option value="guerre"> Guerre </option>
+<option value="harem"> Harem </option>
+<option value="hentai"> Hentai </option>
+<option value="historique"> Historique </option>
+<option value="horreur"> Horreur </option>
+<option value="josei"> Josei </option>
+<option value="mature"> Mature </option>
+<option value="mecha"> Mecha </option>
+<option value="mystere"> Mystère </option>
+<option value="one-shot"> One Shot </option>
+<option value="parodie"> Parodie </option>
+<option value="policier"> Policier </option>
+<option value="psychologique"> Psychologique </option>
+<option value="romance"> Romance </option>
+<option value="science-fiction"> Science-fiction </option>
+<option value="seinen"> Seinen </option>
+<option value="shojo"> Shôjo </option>
+<option value="shojo-ai"> Shôjo Ai </option>
+<option value="shonen"> Shônen </option>
+<option value="shonen-ai"> Shônen Ai </option>
+<option value="smut"> Smut </option>
+<option value="sports"> Sports </option>
+<option value="surnaturel"> Surnaturel </option>
+<option value="tragedie"> Tragédie </option>
+<option value="tranches-de-vie"> Tranches de vie </option>
+<option value="vie-scolaire"> Vie scolaire </option>
+<option value="webtoons"> Webtoons </option>
+<option value="yaoi"> Yaoi </option>
+<option value="yuri"> Yuri </option>
+</select>"""
 
 class Genre:
     def __init__(self, name, url):
@@ -109,17 +114,17 @@ def decodex(x):
 #decodex("AmcWeXsbOzpCdnwQbTEIAXEQ3GcbbttkP196ZW54fHtqzssODXw7Mds=")
 
 
-elts = BeautifulSoup(st).find_all("li")
+elts = BeautifulSoup(st).find_all("option")
 
 s = "[\n\t"
-f = open("uwatchfree" + ".json", 'w')
+f = open("bentomanga" + ".json", 'w')
 ii = 0
 for i2 in elts:
     a = str(i2)
     print(a)
     #if not 'href="' in a:
       #  continue
-    g = Genre(i2.get_text(),a.split('href="')[1].split('"')[0] + "page/linkkader/")
+    g = Genre(i2.get_text(),"https://bentomanga.com/manga_list?category=" + a.split('value=""')[1].split('"')[0] + "&limit=linkkader")
     #g.url = "https://animeindo.one/daftar-anime/page/linkkader/?genre%5B0%5D=" + g.url
     # print(g.url)
     s = s + json.dumps(g.__dict__)
