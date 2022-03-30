@@ -124,7 +124,7 @@ for i2 in elts:
     print(a)
     #if not 'href="' in a:
       #  continue
-    g = Genre(i2.get_text(),"https://bentomanga.com/manga_list?category=" + a.split('value=""')[1].split('"')[0] + "&limit=linkkader")
+    g = Genre(i2.get_text(),"https://bentomanga.com/manga_list?category=" + a.split('value="')[1].split('"')[0] + "&limit=linkkader")
     #g.url = "https://animeindo.one/daftar-anime/page/linkkader/?genre%5B0%5D=" + g.url
     # print(g.url)
     s = s + json.dumps(g.__dict__)
