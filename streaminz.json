@@ -1,0 +1,23 @@
+[
+	{"name": "films", "url": "https://www.streaminz.biz/films/page/linkkader"},
+	{"name": "Serie", "url": "https://www.streaminz.biz/series/films/page/linkkader"},
+	{"name": "tendance", "url": "https://www.streaminz.biz/tendance/films/page/linkkader"},
+	{"name": "Aventure", "url": "https://www.streaminz.biz/genre/aventure/page/linkkader/"},
+	{"name": "Action", "url": "https://www.streaminz.biz/genre/action/page/linkkader/"},
+	{"name": "Com\u00e9die", "url": "https://www.streaminz.biz/genre/comedie/page/linkkader/"},
+	{"name": "Fantastique", "url": "https://www.streaminz.biz/genre/fantastique/page/linkkader/"},
+	{"name": "Romance", "url": "https://www.streaminz.biz/genre/romance/page/linkkader/"},
+	{"name": "Familial", "url": "https://www.streaminz.biz/genre/familial/page/linkkader/"},
+	{"name": "Kids", "url": "https://www.streaminz.biz/genre/kids/page/linkkader/"},
+	{"name": "Animation", "url": "https://www.streaminz.biz/genre/animation/page/linkkader/"},
+	{"name": "Drame", "url": "https://www.streaminz.biz/genre/drame/page/linkkader/"},
+	{"name": "Crime", "url": "https://www.streaminz.biz/genre/crime/page/linkkader/"},
+	{"name": "Thriller", "url": "https://www.streaminz.biz/genre/thriller/page/linkkader/"},
+	{"name": "Horreur", "url": "https://www.streaminz.biz/genre/horreur/page/linkkader/"},
+	{"name": "Science-Fiction", "url": "https://www.streaminz.biz/genre/science-fiction/page/linkkader/"},
+	{"name": "Guerre", "url": "https://www.streaminz.biz/genre/guerre/page/linkkader/"},
+	{"name": "Histoire", "url": "https://www.streaminz.biz/genre/histoire/page/linkkader/"},
+	{"name": "Documentaire", "url": "https://www.streaminz.biz/genre/documentaire/page/linkkader/"},
+	{"name": "Reality", "url": "https://www.streaminz.biz/genre/reality/page/linkkader/"},
+	{"name": "Western", "url": "https://www.streaminz.biz/genre/western/page/linkkader/"}
+]

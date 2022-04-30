@@ -24,51 +24,28 @@ def save(name):
     s = s + "\n]"
     f.write(s)
 
-st = """<select id="mangas-category" title="category" name="category" class="input-jr">
-<option value="null"> Catégorie </option>
-<option value="4-koma"> 4-koma </option>
-<option value="action" selected=""> Action </option>
-<option value="adulte"> Adulte </option>
-<option value="amitie"> Amitié </option>
-<option value="amour"> Amour </option>
-<option value="arts-martiaux"> Arts martiaux </option>
-<option value="aventure"> Aventure </option>
-<option value="combat"> Combat </option>
-<option value="comedie"> Comédie </option>
-<option value="drame"> Drame </option>
-<option value="ecchi"> Ecchi </option>
-<option value="fantastique"> Fantastique </option>
-<option value="gender-bender"> Gender Bender </option>
-<option value="guerre"> Guerre </option>
-<option value="harem"> Harem </option>
-<option value="hentai"> Hentai </option>
-<option value="historique"> Historique </option>
-<option value="horreur"> Horreur </option>
-<option value="josei"> Josei </option>
-<option value="mature"> Mature </option>
-<option value="mecha"> Mecha </option>
-<option value="mystere"> Mystère </option>
-<option value="one-shot"> One Shot </option>
-<option value="parodie"> Parodie </option>
-<option value="policier"> Policier </option>
-<option value="psychologique"> Psychologique </option>
-<option value="romance"> Romance </option>
-<option value="science-fiction"> Science-fiction </option>
-<option value="seinen"> Seinen </option>
-<option value="shojo"> Shôjo </option>
-<option value="shojo-ai"> Shôjo Ai </option>
-<option value="shonen"> Shônen </option>
-<option value="shonen-ai"> Shônen Ai </option>
-<option value="smut"> Smut </option>
-<option value="sports"> Sports </option>
-<option value="surnaturel"> Surnaturel </option>
-<option value="tragedie"> Tragédie </option>
-<option value="tranches-de-vie"> Tranches de vie </option>
-<option value="vie-scolaire"> Vie scolaire </option>
-<option value="webtoons"> Webtoons </option>
-<option value="yaoi"> Yaoi </option>
-<option value="yuri"> Yuri </option>
-</select>"""
+st = """<ul class="flex-row">
+<li><a href="/genre/action/">Action</a></li>
+<li><a href="/genre/aventure/">Aventure</a></li>
+<li><a href="/genre/arts-martiaux/">Arts martiaux</a></li>
+<li><a href="/genre/combat/">Combat</a></li>
+<li><a href="/genre/comedie/">Comédie</a></li>
+<li><a href="/genre/drame/">Drame</a></li>
+<li><a href="/genre/epouvante/">Epouvante</a></li>
+<li><a href="/genre/fantastique/">Fantastique</a></li>
+<li><a href="/genre/fantasy/">Fantasy</a></li>
+<li><a href="/genre/mystere/">Mystère</a></li>
+<li><a href="/genre/romance/">Romance</a></li>
+<li><a href="/genre/shonen/">Shonen</a></li>
+<li><a href="/genre/surnaturel/">Surnaturel</a></li>
+<li><a href="/genre/sci-fi/">Sci-Fi</a></li>
+<li><a href="/genre/school-life/">School life</a></li>
+<li><a href="/genre/ninja/">Ninja</a></li>
+<li><a href="/genre/seinen/">Seinen</a></li>
+<li><a href="/genre/horreur/">Horreur</a></li>
+<li><a href="/genre/tranchedevie/">Tranche de vie</a></li>
+<li><a href="/genre/psychologique/">Psychologique</a></li>
+</ul>"""
 
 class Genre:
     def __init__(self, name, url):
@@ -114,17 +91,17 @@ def decodex(x):
 #decodex("AmcWeXsbOzpCdnwQbTEIAXEQ3GcbbttkP196ZW54fHtqzssODXw7Mds=")
 
 
-elts = BeautifulSoup(st).find_all("option")
+elts = BeautifulSoup(st).find_all("a")
 
 s = "[\n\t"
-f = open("bentomanga" + ".json", 'w')
+f = open("frenchanime" + ".json", 'w')
 ii = 0
 for i2 in elts:
     a = str(i2)
     print(a)
     #if not 'href="' in a:
-      #  continue
-    g = Genre(i2.get_text(),"https://bentomanga.com/manga_list?category=" + a.split('value="')[1].split('"')[0] + "&limit=linkkader")
+    #    continue
+    g = Genre(i2.get_text(),"https://french-anime.com" + a.split('href="')[1].split('"')[0] + "page/linkkader/")
     #g.url = "https://animeindo.one/daftar-anime/page/linkkader/?genre%5B0%5D=" + g.url
     # print(g.url)
     s = s + json.dumps(g.__dict__)
